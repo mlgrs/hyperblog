@@ -1,7 +1,23 @@
 body
 {
-    color:darkolivegreen;
+    color:rgb(119, 0, 255);
     text-align: center;
     font-family: "Times New Roman";
+    font-size: 16px;
+
+
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 0 auto;
+
+}
+#container h1
+{
+    font-size: 20px;
 
 }
