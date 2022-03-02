@@ -1,13 +1,13 @@
 body
 {
-    background: #BABCFF;
-    background: -moz-linear-gradient(left, #BABCFF 0%, #E4BDFF 48%, #C58EA0 100%);
-    background: -webkit-linear-gradient(left, #BABCFF 0%, #E4BDFF 48%, #C58EA0 100%);
-    background: linear-gradient(to right, #BABCFF 0%, #E4BDFF 48%, #C58EA0 100%);
-    color:rgb(119, 0, 255);
+    background: #FFF5C2;
+background: -moz-linear-gradient(top, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%);
+background: -webkit-linear-gradient(top, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%);
+background: linear-gradient(to bottom, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%); 
+    color:rgb(0, 0, 0);
     text-align: center;
-    font-family: "Arial";
-    font-size: 16px;
+    font-family: "Helvetica";
+    font-size: 19px;
     margin: 0;
     padding: 0;
 
@@ -16,7 +16,7 @@ body
 
 #cabecera
 {
-    background: rgb(0, 0, 0);
+    background: rgb(231, 213, 231);
     -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
 box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
     color: white;
@@ -25,11 +25,17 @@ box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15p
     padding: 0.5em;
 }
 
+#cabecera #logo
+{
+    width: 150px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline
 {
-    padding: 0 0 0 0em;
+    padding: 0 0 1 1em;
     font-weight: normal;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 #container
@@ -49,8 +55,8 @@ box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15p
 }
 
 #post
-{
-    padding: 1em;
+{   
+    padding: 0.9em;
 }
 
 #back2Top {
