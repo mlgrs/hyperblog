@@ -19,7 +19,7 @@ body
     background: #fff1fa 0%;
     -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
     box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
-    color: white;
+    color: rgb(0, 0, 0);
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
@@ -27,7 +27,7 @@ body
 
 #cabecera #logo
 {
-    width: 150px;
+    width: 180px;
     vertical-align: middle;
 }
 
@@ -43,7 +43,7 @@ body
     width: 60%;
     padding: 1em;
     text-align: center;
-    border: 0.8px solid rgb(0, 0, 0);
+    border: 0.8px solid rgb(78, 78, 78);
     margin: 0 auto;
 
 }
@@ -51,38 +51,13 @@ body
 #container h1
 {
     font-size: 20px;
-
+    font-weight: bolder;
 }
 
 #post
 {   
     padding: 0.9em;
-}
-
-#back2Top {
-    width: 40px;
-    line-height: 40px;
-    overflow: hidden;
-    z-index: 999;
-    display: none;
-    cursor: pointer;
-    -moz-transform: rotate(270deg);
-    -webkit-transform: rotate(270deg);
-    -o-transform: rotate(270deg);
-    -ms-transform: rotate(270deg);
-    transform: rotate(270deg);
-    position: fixed;
-    bottom: 50px;
-    right: 0;
-    background-color: #DDD;
-    color: #555;
-    text-align: center;
-    font-size: 30px;
-    text-decoration: none;
-}
-#back2Top:hover {
-    background-color: #DDF;
-    color: #000;
+    text-align: justify;
 }
 
 #footer
