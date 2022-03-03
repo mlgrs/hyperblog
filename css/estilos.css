@@ -84,3 +84,8 @@ box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15p
     background-color: #DDF;
     color: #000;
 }
+
+#footer
+{
+	text-align: center;
+}
