@@ -1,24 +1,24 @@
 body
 {
     background: #FFF5C2;
-background: -moz-linear-gradient(top, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%);
-background: -webkit-linear-gradient(top, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%);
-background: linear-gradient(to bottom, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%); 
+    background: -moz-linear-gradient(top, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%);
+    background: -webkit-linear-gradient(top, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%);
+    background: linear-gradient(to bottom, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%); 
     color:rgb(0, 0, 0);
     text-align: center;
-    font-family: "Helvetica";
+    font-family: "Calibri";
     font-size: 19px;
-    margin: 0;
-    padding: 0;
+    margin: 0.5;
+    padding: 0.4;
 
 
 }
 
 #cabecera
 {
-    background: rgb(231, 213, 231);
+    background: #fff1fa 0%;
     -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -40,10 +40,10 @@ box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15p
 
 #container
 {
-    width: 70%;
+    width: 60%;
     padding: 1em;
     text-align: center;
-    border: 1px solid rgb(0, 0, 0);
+    border: 0.8px solid rgb(0, 0, 0);
     margin: 0 auto;
 
 }
