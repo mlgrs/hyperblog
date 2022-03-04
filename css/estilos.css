@@ -1,9 +1,6 @@
 body
 {
-    background: #FFF5C2;
-    background: -moz-linear-gradient(top, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%);
-    background: -webkit-linear-gradient(top, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%);
-    background: linear-gradient(to bottom, #FFF5C2 0%, #FFEDFA 50%, #FFF5C2 100%); 
+    background: #F2C0FF; 
     color:rgb(0, 0, 0);
     text-align: center;
     font-family: "Calibri";
@@ -16,9 +13,9 @@ body
 
 #cabecera
 {
-    background: #fff1fa 0%;
-    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
-    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    background: #FFCDF5 0%;
+    -webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 0px 0px 42px 12px #FFDBFE; 
+    box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 0px 0px 42px 12px #FFDBFE;
     color: rgb(0, 0, 0);
     font-weight: bold;
     margin: 0;
@@ -27,7 +24,7 @@ body
 
 #cabecera #logo
 {
-    width: 180px;
+    width: 150px;
     vertical-align: middle;
 }
 
@@ -40,10 +37,11 @@ body
 
 #container
 {
-    width: 60%;
+    width: 80%;
     padding: 1em;
     text-align: center;
-    border: 0.8px solid rgb(78, 78, 78);
+    border-top: 5px solid #000000;
+    border-bottom: 5px solid #000000;
     margin: 0 auto;
 
 }
