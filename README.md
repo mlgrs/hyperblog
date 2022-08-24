@@ -1,4 +1,4 @@
-## 💗 [Adopt a Cat](https://mlgrs.github.io/hyperblog/blog.html) 💗
+## 💗 [Adopt a Cat](https://mlgrs.github.io/hyperblog/) 💗
 * Semantic HTML
 * CSS custom properties
 * Best practices
