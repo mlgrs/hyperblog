@@ -3,9 +3,9 @@
 * CSS custom properties
 * Best practices
 
-Proyecto para el[ curso Profesional de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi").
+Project for the [Git and GitHub Course](https://platzi.com/cursos/git-github/ " curso de Git y Github") 
 
 
 
 
-Fotografías: [This Photographer is Inspiring People to Adopt Disabled Cats]( https://www.pupperish.com/photographer-inspiring-people)
+Fotography: [This Photographer is Inspiring People to Adopt Disabled Cats]( https://www.pupperish.com/photographer-inspiring-people)
